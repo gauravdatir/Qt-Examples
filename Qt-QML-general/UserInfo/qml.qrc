@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ValueSource.qml</file>
+        <file>TurnArrow.qml</file>
+        <file>SppedoMeterStyle.qml</file>
+    </qresource>
+</RCC>
