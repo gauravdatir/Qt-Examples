@@ -5,3 +5,4 @@
 *.Release
 *.stash
 moc*.*
+*.user
